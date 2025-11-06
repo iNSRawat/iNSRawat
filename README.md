@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Engineer+%F0%9F%A4%96;Full+Stack+Data+Science;AI%2FML+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Data+Science;AI%2FML+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 ---
