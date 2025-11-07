@@ -100,11 +100,9 @@
 
 ## 💰 You can help me by Donating
 
-<p align="center">
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nsrawat) 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/NRawat710)
-</p>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nsrawat) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/NRawat710)
 
 <p align="center">
-  <b>✨ Built with ❤️ by <strong>N S Rawat</strong>(https://buymeacoffee.com/nsrawat) </b>
+    <b>✨ Built with ❤️ by <a href="https://github.com/iNSRawat"><strong>N S Rawat</strong></a></b>
 </p>
