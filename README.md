@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;Full+Stack+Data+Science;AI%2FML+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Nagendra+Rawat+👋;Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;AI%2FML+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
 
 ---
@@ -85,24 +85,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iNSRawat/iNSRawat/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🏆 Featured Projects
-
-<!-- Add your data science projects here when ready -->
-<!-- Example:
-### 📚 [Project Name](https://github.com/iNSRawat/project-name)
-Brief description of your data science project
--->
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iNSRawat&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
 ## 💡 Quote of the Day
 
 <p align="center">
@@ -118,9 +100,11 @@ Brief description of your data science project
 
 ## 💰 You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nsrawat) 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/NRawat710)
+<p align="center">
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nsrawat) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/NRawat710)
+</p>
 
 <p align="center">
-  <b>✨ Built with ❤️ by N S RAWAT</b>
+  <b>✨ Built with ❤️ by <strong>N S Rawat</strong>(https://buymeacoffee.com/nsrawat) </b>
 </p>
