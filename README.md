@@ -1,7 +1,8 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Nagendra+Rawat+👋;Data+Scientist+%F0%9F%93%8A;Machine+Learning+Enthusiast+%F0%9F%A4%96;AI%2FML+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nagendra+Rawat+👋;Data+Scientist+%F0%9F%93%8A;AI%2FML+Enthusiast+%F0%9F%A7%A0:Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
