@@ -19,10 +19,12 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://twitter.com/iNSRawat" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.linkedin.com/in/insrawat" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:digital@nsrawat.in" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://bio.link/nsrawat" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <span style="margin-right:15px;">
+    <a href="https://twitter.com/iNSRawat" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://www.linkedin.com/in/insrawat" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:digital@nsrawat.in" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://bio.link/nsrawat" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  </span>
 </p>
 
 ---
@@ -80,7 +82,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iNSRawat/iNSRawat/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iNSRawat/iNSRawat/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iNSRawat/iNSRawat/output/github-contribution-grid-snake.svg" width="100%" height="300">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iNSRawat/iNSRawat/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 🏆 Featured Projects
