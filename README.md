@@ -11,7 +11,7 @@
 
 - 🧑‍💻 I'm currently pursuing **Data Science**
 - 🛠️ Passionate about building **Data Science Module**
-- 🎯 Focused on clean code, performance, and design
+- 🎯 Focused on cleaning **Data, and Visualization**
 - 💡 Love designing modern **Data Dashboard**
 - 🌱 Currently learning **AI/ML & Data Science**
 - 🧑‍💻 My DataCamp Portfolio [**LiNK**](https://www.datacamp.com/portfolio/ns-rawat)
