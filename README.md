@@ -10,7 +10,7 @@
 ## 🔥 About Me
 
 - 🧑‍💻 I'm currently pursuing **Data Science**
-- 🛠️ Passionate about building **Full Stack Data Science Module**
+- 🛠️ Passionate about building **Data Science Module**
 - 🎯 Focused on clean code, performance, and design
 - 💡 Love designing modern **Data Dashboard**
 - 🌱 Currently learning **AI/ML & Data Science**
