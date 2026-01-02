@@ -92,7 +92,7 @@
 
 </details>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iNSRawa&label=Visitors&color=181717&style=flat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iNSRawa&label=Visitors&color=007ec6&style=flat" /> </p>
 
 <br>
 
