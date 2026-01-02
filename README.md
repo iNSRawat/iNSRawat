@@ -90,9 +90,11 @@
 </p>
 
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iNSRawat&icon=0&color=0" alt="Visit Count" />
-</p>
+</details>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iNSRawa&label=Visitors&color=181717&style=flat" /> </p>
+
+<br>
 
 ---
 
