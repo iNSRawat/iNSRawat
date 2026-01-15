@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="N S Rawat cyber image.jpg" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px; filter: contrast(1.1) brightness(0.9);" alt="Banner">
+  <img src="Image cyberpunk.png" width="100%" style="max-height: 300px; object-fit: cover; border-radius: 15px; filter: contrast(1.1) brightness(0.9);" alt="Banner">
 </div>
 
 ---
