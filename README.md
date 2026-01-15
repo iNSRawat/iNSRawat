@@ -13,56 +13,6 @@
   <br><br>
 </div>
 
-<h2 align="center">📊 My Development Journey</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>💡 Current Focus</h3>
-        Building Data Science modules & AI/ML Applications
-      </td>
-      <td width="50%" align="center">
-        <h3>🎯 Next Goals</h3>
-        Master Deep Learning & NLP
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<h2 align="center">🎨 How to Add Your Profile Photo</h2>
-
-<details>
-<summary><b>Click to expand instructions</b></summary>
-
-### Steps to Add Your Custom Illustrated Profile Photo:
-
-1. **Create your AI-generated illustration:**
-   - Use **Bing Image Creator** (Free): https://www.bing.com/images/create
-   - Or **Leonardo.ai** (Free credits): https://www.leonardo.ai
-   - Or **Midjourney** (Best quality): https://midjourney.com
-
-2. **Suggested Prompt for AI Generation:**
-   ```
-   A professional illustrated portrait of a young male Indian software engineer 
-   and data scientist in cyberpunk anime style, sitting at a desk with dual monitors 
-   showing colorful code, wearing gaming headphones, surrounded by neon cyan and 
-   magenta glowing lights, modern dark tech setup with energy drink and cute cat 
-   plushie, detailed digital art illustration, modern aesthetic
-   ```
-
-3. **Upload to your repository:**
-   - Create an `assets` folder in this repository
-   - Save your image as `profile-photo.png`
-   - Commit and push
-
-4. **Update the image URL in README:**
-   - Replace the placeholder image URL with: `https://raw.githubusercontent.com/iNSRawat/iNSRawat/main/assets/profile-photo.png`
-
-</details>
-
 ---
 
 ## 🔥 About Me
