@@ -5,6 +5,64 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nagendra+Rawat+👋;Data+Scientist+%F0%9F%93%8A;AI%2FML+Enthusiast+%F0%9F%A7%A0;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <br>
+  <img src="https://via.placeholder.com/800x400/1a1a2e/00d4ff?text=Your+Cyberpunk+Profile+Photo" alt="Profile Photo" width="800" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
+  <br>
+  <i>Your professional illustrated profile photo goes here!</i>
+  <br><br>
+</div>
+
+<h2 align="center">📊 My Development Journey</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>💡 Current Focus</h3>
+        Building Data Science modules & AI/ML Applications
+      </td>
+      <td width="50%" align="center">
+        <h3>🎯 Next Goals</h3>
+        Master Deep Learning & NLP
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<h2 align="center">🎨 How to Add Your Profile Photo</h2>
+
+<details>
+<summary><b>Click to expand instructions</b></summary>
+
+### Steps to Add Your Custom Illustrated Profile Photo:
+
+1. **Create your AI-generated illustration:**
+   - Use **Bing Image Creator** (Free): https://www.bing.com/images/create
+   - Or **Leonardo.ai** (Free credits): https://www.leonardo.ai
+   - Or **Midjourney** (Best quality): https://midjourney.com
+
+2. **Suggested Prompt for AI Generation:**
+   ```
+   A professional illustrated portrait of a young male Indian software engineer 
+   and data scientist in cyberpunk anime style, sitting at a desk with dual monitors 
+   showing colorful code, wearing gaming headphones, surrounded by neon cyan and 
+   magenta glowing lights, modern dark tech setup with energy drink and cute cat 
+   plushie, detailed digital art illustration, modern aesthetic
+   ```
+
+3. **Upload to your repository:**
+   - Create an `assets` folder in this repository
+   - Save your image as `profile-photo.png`
+   - Commit and push
+
+4. **Update the image URL in README:**
+   - Replace the placeholder image URL with: `https://raw.githubusercontent.com/iNSRawat/iNSRawat/main/assets/profile-photo.png`
+
+</details>
+
 ---
 
 ## 🔥 About Me
