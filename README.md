@@ -7,7 +7,7 @@
 
 <div align="center">
   <br>
-  <img src="h[ttps://via.placeholder.com/800x400/1a1a2e/00d4ff?text=Your+Cyberpunk+Profile+Photo" alt="Profile Photo"](https://raw.githubusercontent.com/iNSRawat/iNSRawat/main/N%20S%20Rawat%20cyber%20image.jpg) width="800" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
+  <img src="h[ttps://raw.githubusercontent.com/iNSRawat/iNSRawat/main/N%20S%20Rawat%20cyber%20image.jpg" alt="Profile Photo"](https://raw.githubusercontent.com/iNSRawat/iNSRawat/main/N%20S%20Rawat%20cyber%20image.jpg) width="800" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);" />
   <br>
   <i>Your professional illustrated profile photo goes here!</i>
   <br><br>
