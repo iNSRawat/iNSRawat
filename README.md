@@ -39,7 +39,6 @@
 - 🐙 [**git-github-cheatsheet**](https://github.com/iNSRawat/git-github-cheatsheet) - A comprehensive Git & GitHub commands reference with examples.
 - 🌐 [**nsrawat**](https://github.com/iNSRawat/nsrawat) - Minimal, pixel-perfect portfolio with analytical projects, code notebooks, and data-driven ideas.
 - 🧘 [**Zenith---AI-Meditation-Chat**](https://github.com/iNSRawat/Zenith---AI-Meditation-Chat) - AI Meditation & Chat application.
-- 🦞 [**openclaw**](https://github.com/iNSRawat/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way.
 - 📝 [**resume**](https://github.com/iNSRawat/resume) - A professional resume built with LaTeX, featuring experience in data science, machine learning, and full-stack development.
 
 ---
