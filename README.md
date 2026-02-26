@@ -23,6 +23,26 @@
 
 ---
 
+## ✨ Some Open Source Projects
+
+- 📊 [**data-cleaning-visualization**](https://github.com/iNSRawat/data-cleaning-visualization) Professional data wrangling & business intelligence project. Cleans and visualizes 150,000+ Google Analytics user session events with 99%+ data accuracy.
+- 🤖 [**customer-behavior-prediction**](https://github.com/iNSRawat/customer-behavior-prediction) Machine learning classification model for predicting customer purchase intent with 82% accuracy using e-commerce behavioral data.
+- 🏠 [**predicting-house-sale-prices**](https://github.com/iNSRawat/predicting-house-sale-prices) Data science project to predict house sale prices using real-world residential data, combining exploratory analysis and regression models.
+- 📈 [**marketing-analytics-dashboard**](https://github.com/iNSRawat/marketing-analytics-dashboard) Automated KPI dashboard with 25+ real-time metrics. Tracks marketing performance across Google Analytics, Google Ads, and Salesforce CRM.
+- 🧮 [**Mathematics-Formulas-for-Data-Science-Machine-Learning**](https://github.com/iNSRawat/Mathematics-Formulas-for-Data-Science-Machine-Learning) A comprehensive collection of mathematics formulas essential for data science and machine learning.
+- 🛒 [**supermarket-loyalty-prediction**](https://github.com/iNSRawat/supermarket-loyalty-prediction) DataCamp Data Scientist Associate Practical Exam - Predicting customer spending in supermarket loyalty program.
+- 🍳 [**recipe-site-traffic-prediction**](https://github.com/iNSRawat/recipe-site-traffic-prediction) Predicting recipe site traffic patterns using machine learning techniques.
+- 💼 [**data-science-analytics-projects**](https://github.com/iNSRawat/data-science-analytics-projects) Real-world Data Science & Analytics Projects featuring Customer Behavior Prediction, Data Cleaning & Visualization, and Marketing Analytics Dashboards.
+- 🗓️ [**data-science-career-roadmap**](https://github.com/iNSRawat/data-science-career-roadmap) A structured roadmap for building a career in data science.
+- 🔧 [**ubuntu-commands-guide**](https://github.com/iNSRawat/ubuntu-commands-guide) A comprehensive Ubuntu/Linux commands guide for developers and data scientists.
+- 🐙 [**git-github-cheatsheet**](https://github.com/iNSRawat/git-github-cheatsheet) A comprehensive Git & GitHub commands reference with examples - Your complete cheatsheet for version control.
+- 🌐 [**nsrawat**](https://github.com/iNSRawat/nsrawat) Featuring my minimal, pixel-perfect portfolio, analytical projects, code notebooks, experiment logs, and innovative data-driven ideas.
+- 🧘 [**Zenith---AI-Meditation-Chat**](https://github.com/iNSRawat/Zenith---AI-Meditation-Chat) Zenith - AI Meditation & Chat application.
+- 🦞 [**openclaw**](https://github.com/iNSRawat/openclaw) Your own personal AI assistant. Any OS. Any Platform. The lobster way.
+- 📝 [**resume**](https://github.com/iNSRawat/resume) A professional resume built with LaTeX, featuring experience in data science, machine learning, and full-stack development.
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
