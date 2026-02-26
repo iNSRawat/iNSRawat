@@ -1,8 +1,9 @@
 <h1 align="center">Welcome to my GitHub Profile!</h1>
 
 <p align="center">
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nagendra+Rawat+👋;Data+Scientist+%F0%9F%93%8A;AI%2FML+Enthusiast+%F0%9F%A7%A0;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Nagendra+Rawat+👋;Data+Scientist+%F0%9F%93%8A;AI%2FML+Enthusiast+%F0%9F%A7%A0;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </p>
 </p>
 
 <div align="center">
@@ -13,7 +14,7 @@
 
 ## 🔥 About Me
 
-- 🧑‍💻[N S Rawat](https://nsrawat.in)
+- 🧑‍💻 [N S Rawat](https://nsrawat.in)
 - 🧑‍💻 I'm currently pursuing **Data Science**
 - 🛠️ Passionate about building **Data Science Module**
 - 🎯 Focused on cleaning **Data, and Visualization**
@@ -25,25 +26,21 @@
 
 ## ✨ My Projects
 
-<sub>
-
-- 📊 **[data-cleaning-visualization](https://github.com/iNSRawat/data-cleaning-visualization)** - Professional data wrangling & business intelligence project. Cleans and visualizes 150,000+ Google Analytics user session events with 99%+ data accuracy.
-- 🤖 **[customer-behavior-prediction](https://github.com/iNSRawat/customer-behavior-prediction)** - Machine learning classification model for predicting customer purchase intent with 82% accuracy using e-commerce behavioral data.
-- 🏠 **[predicting-house-sale-prices](https://github.com/iNSRawat/predicting-house-sale-prices)** - Data science project to predict house sale prices using real-world residential data, combining exploratory analysis and regression models.
-- 📈 **[marketing-analytics-dashboard](https://github.com/iNSRawat/marketing-analytics-dashboard)** - Automated KPI dashboard with 25+ real-time metrics. Tracks marketing performance across Google Analytics, Google Ads, and Salesforce CRM.
-- 🧮 **[Mathematics-Formulas-for-Data-Science-Machine-Learning](https://github.com/iNSRawat/Mathematics-Formulas-for-Data-Science-Machine-Learning)** - A comprehensive collection of mathematics formulas essential for data science and machine learning.
-- 🛒 **[supermarket-loyalty-prediction](https://github.com/iNSRawat/supermarket-loyalty-prediction)** - DataCamp Data Scientist Associate Practical Exam - Predicting customer spending in supermarket loyalty program.
-- 🍳 **[recipe-site-traffic-prediction](https://github.com/iNSRawat/recipe-site-traffic-prediction)** - Predicting recipe site traffic patterns using machine learning techniques.
-- 💼 **[data-science-analytics-projects](https://github.com/iNSRawat/data-science-analytics-projects)** - Real-world Data Science & Analytics Projects featuring Customer Behavior Prediction, Data Cleaning & Visualization, and Marketing Analytics Dashboards.
-- 🗓️ **[data-science-career-roadmap](https://github.com/iNSRawat/data-science-career-roadmap)** - A structured roadmap for building a career in data science.
-- 🔧 **[ubuntu-commands-guide](https://github.com/iNSRawat/ubuntu-commands-guide)** - A comprehensive Ubuntu/Linux commands guide for developers and data scientists.
-- 🐙 **[git-github-cheatsheet](https://github.com/iNSRawat/git-github-cheatsheet)** - A comprehensive Git & GitHub commands reference with examples.
-- 🌐 **[nsrawat](https://github.com/iNSRawat/nsrawat)** - Minimal, pixel-perfect portfolio with analytical projects, code notebooks, and data-driven ideas.
-- 🧘 **[Zenith---AI-Meditation-Chat](https://github.com/iNSRawat/Zenith---AI-Meditation-Chat)** - AI Meditation & Chat application.
-- 🦞 **[openclaw](https://github.com/iNSRawat/openclaw)** - Your own personal AI assistant. Any OS. Any Platform. The lobster way.
-- 📝 **[resume](https://github.com/iNSRawat/resume)** - A professional resume built with LaTeX, featuring experience in data science, machine learning, and full-stack development.
-
-</sub>
+- 📊 [**data-cleaning-visualization**](https://github.com/iNSRawat/data-cleaning-visualization) - Professional data wrangling & business intelligence project. Cleans and visualizes 150,000+ Google Analytics user session events with 99%+ data accuracy.
+- 🤖 [**customer-behavior-prediction**](https://github.com/iNSRawat/customer-behavior-prediction) - Machine learning classification model for predicting customer purchase intent with 82% accuracy.
+- 🏠 [**predicting-house-sale-prices**](https://github.com/iNSRawat/predicting-house-sale-prices) - Data science project to predict house sale prices using real-world residential data and regression models.
+- 📈 [**marketing-analytics-dashboard**](https://github.com/iNSRawat/marketing-analytics-dashboard) - Automated KPI dashboard with 25+ real-time metrics across Google Analytics, Google Ads, and Salesforce CRM.
+- 🧮 [**Mathematics-Formulas-for-Data-Science-Machine-Learning**](https://github.com/iNSRawat/Mathematics-Formulas-for-Data-Science-Machine-Learning) - A comprehensive collection of mathematics formulas essential for data science and machine learning.
+- 🛒 [**supermarket-loyalty-prediction**](https://github.com/iNSRawat/supermarket-loyalty-prediction) - DataCamp Data Scientist Associate Practical Exam - Predicting customer spending in a supermarket loyalty program.
+- 🍳 [**recipe-site-traffic-prediction**](https://github.com/iNSRawat/recipe-site-traffic-prediction) - Predicting recipe site traffic patterns using machine learning techniques.
+- 💼 [**data-science-analytics-projects**](https://github.com/iNSRawat/data-science-analytics-projects) - Real-world Data Science & Analytics Projects featuring Customer Behavior Prediction, Data Cleaning & Visualization, and Marketing Analytics Dashboards.
+- 🗓️ [**data-science-career-roadmap**](https://github.com/iNSRawat/data-science-career-roadmap) - A structured roadmap for building a career in data science.
+- 🔧 [**ubuntu-commands-guide**](https://github.com/iNSRawat/ubuntu-commands-guide) - A comprehensive Ubuntu/Linux commands guide for developers and data scientists.
+- 🐙 [**git-github-cheatsheet**](https://github.com/iNSRawat/git-github-cheatsheet) - A comprehensive Git & GitHub commands reference with examples.
+- 🌐 [**nsrawat**](https://github.com/iNSRawat/nsrawat) - Minimal, pixel-perfect portfolio with analytical projects, code notebooks, and data-driven ideas.
+- 🧘 [**Zenith---AI-Meditation-Chat**](https://github.com/iNSRawat/Zenith---AI-Meditation-Chat) - AI Meditation & Chat application.
+- 🦞 [**openclaw**](https://github.com/iNSRawat/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way.
+- 📝 [**resume**](https://github.com/iNSRawat/resume) - A professional resume built with LaTeX, featuring experience in data science, machine learning, and full-stack development.
 
 ---
 
@@ -110,10 +107,7 @@
 
 ## 🧱 GitHub 3D Contributions
 
-<details>
-  <summary>Click to expand!</summary>
-  <img src="https://raw.githubusercontent.com/iNSRawat/iNSRawat/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
-</details>
+github contribution grid snake animation
 
 ## 💡 Quote of the Day
 
