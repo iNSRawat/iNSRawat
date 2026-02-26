@@ -95,7 +95,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iNSRawat&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iNSRawat&theme=tokyonight&hide_border=false" />
+      <img src="https://streak-stats.demolab.com/?user=iNSRawat&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
