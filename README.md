@@ -23,7 +23,7 @@
 
 ---
 
-## ✨ Some Open Source Projects
+## ✨ My Projects
 
 - 📊 [**data-cleaning-visualization**](https://github.com/iNSRawat/data-cleaning-visualization) Professional data wrangling & business intelligence project. Cleans and visualizes 150,000+ Google Analytics user session events with 99%+ data accuracy.
 - 🤖 [**customer-behavior-prediction**](https://github.com/iNSRawat/customer-behavior-prediction) Machine learning classification model for predicting customer purchase intent with 82% accuracy using e-commerce behavioral data.
@@ -38,7 +38,6 @@
 - 🐙 [**git-github-cheatsheet**](https://github.com/iNSRawat/git-github-cheatsheet) A comprehensive Git & GitHub commands reference with examples - Your complete cheatsheet for version control.
 - 🌐 [**nsrawat**](https://github.com/iNSRawat/nsrawat) Featuring my minimal, pixel-perfect portfolio, analytical projects, code notebooks, experiment logs, and innovative data-driven ideas.
 - 🧘 [**Zenith---AI-Meditation-Chat**](https://github.com/iNSRawat/Zenith---AI-Meditation-Chat) Zenith - AI Meditation & Chat application.
-- 🦞 [**openclaw**](https://github.com/iNSRawat/openclaw) Your own personal AI assistant. Any OS. Any Platform. The lobster way.
 - 📝 [**resume**](https://github.com/iNSRawat/resume) A professional resume built with LaTeX, featuring experience in data science, machine learning, and full-stack development.
 
 ---
