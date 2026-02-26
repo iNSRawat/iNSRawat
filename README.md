@@ -35,7 +35,7 @@
 - 💼 [**data-science-analytics-projects**](https://github.com/iNSRawat/data-science-analytics-projects) - Real-world Data Science & Analytics Projects featuring Customer Behavior Prediction, Data Cleaning & Visualization, and Marketing Analytics Dashboards.
 - 🧘 [**Zenith---AI-Meditation-Chat**](https://github.com/iNSRawat/Zenith---AI-Meditation-Chat) - AI Meditation & Chat application.
 
-## ✨ My Portfolio & Resources
+## ✨ Portfolio & Resources
 
 - 🌐 [**nsrawat**](https://github.com/iNSRawat/nsrawat) - Minimal, pixel-perfect portfolio with analytical projects, code notebooks, and data-driven ideas.
 - 🗓️ [**data-science-career-roadmap**](https://github.com/iNSRawat/data-science-career-roadmap) - A structured roadmap for building a career in data science.
