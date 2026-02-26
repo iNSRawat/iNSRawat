@@ -30,15 +30,18 @@
 - 🤖 [**customer-behavior-prediction**](https://github.com/iNSRawat/customer-behavior-prediction) - Machine learning classification model for predicting customer purchase intent with 82% accuracy.
 - 🏠 [**predicting-house-sale-prices**](https://github.com/iNSRawat/predicting-house-sale-prices) - Data science project to predict house sale prices using real-world residential data and regression models.
 - 📈 [**marketing-analytics-dashboard**](https://github.com/iNSRawat/marketing-analytics-dashboard) - Automated KPI dashboard with 25+ real-time metrics across Google Analytics, Google Ads, and Salesforce CRM.
-- 🧮 [**Mathematics-Formulas-for-Data-Science-Machine-Learning**](https://github.com/iNSRawat/Mathematics-Formulas-for-Data-Science-Machine-Learning) - A comprehensive collection of mathematics formulas essential for data science and machine learning.
 - 🛒 [**supermarket-loyalty-prediction**](https://github.com/iNSRawat/supermarket-loyalty-prediction) - DataCamp Data Scientist Associate Practical Exam - Predicting customer spending in a supermarket loyalty program.
 - 🍳 [**recipe-site-traffic-prediction**](https://github.com/iNSRawat/recipe-site-traffic-prediction) - Predicting recipe site traffic patterns using machine learning techniques.
 - 💼 [**data-science-analytics-projects**](https://github.com/iNSRawat/data-science-analytics-projects) - Real-world Data Science & Analytics Projects featuring Customer Behavior Prediction, Data Cleaning & Visualization, and Marketing Analytics Dashboards.
+- 🧘 [**Zenith---AI-Meditation-Chat**](https://github.com/iNSRawat/Zenith---AI-Meditation-Chat) - AI Meditation & Chat application.
+
+## ✨ My Portfolio & Resources
+
+- 🌐 [**nsrawat**](https://github.com/iNSRawat/nsrawat) - Minimal, pixel-perfect portfolio with analytical projects, code notebooks, and data-driven ideas.
 - 🗓️ [**data-science-career-roadmap**](https://github.com/iNSRawat/data-science-career-roadmap) - A structured roadmap for building a career in data science.
+- 🧮 [**Mathematics-Formulas-for-Data-Science-Machine-Learning**](https://github.com/iNSRawat/Mathematics-Formulas-for-Data-Science-Machine-Learning) - A comprehensive collection of mathematics formulas essential for data science and machine learning.
 - 🔧 [**ubuntu-commands-guide**](https://github.com/iNSRawat/ubuntu-commands-guide) - A comprehensive Ubuntu/Linux commands guide for developers and data scientists.
 - 🐙 [**git-github-cheatsheet**](https://github.com/iNSRawat/git-github-cheatsheet) - A comprehensive Git & GitHub commands reference with examples.
-- 🌐 [**nsrawat**](https://github.com/iNSRawat/nsrawat) - Minimal, pixel-perfect portfolio with analytical projects, code notebooks, and data-driven ideas.
-- 🧘 [**Zenith---AI-Meditation-Chat**](https://github.com/iNSRawat/Zenith---AI-Meditation-Chat) - AI Meditation & Chat application.
 - 📝 [**resume**](https://github.com/iNSRawat/resume) - A professional resume built with LaTeX, featuring experience in data science, machine learning, and full-stack development.
 
 ---
