@@ -14,8 +14,7 @@
 
 ## 🔥 About Me
 
-- 🧑‍💻 [N S Rawat](https://nsrawat.in)
-- 🧑‍💻 I'm currently pursuing **Data Science**
+- 🧑‍💻 I'm [N S Rawat](https://nsrawat.in) currently pursuing **Data Science**
 - 🛠️ Passionate about building **Data Science Module**
 - 🎯 Focused on cleaning **Data, and Visualization**
 - 💡 Love designing modern **Data Dashboard**
