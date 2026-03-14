@@ -23,7 +23,7 @@
 
 ---
 
-## ✨ My Projects
+## ✨ Featured Projects (Recent)
 
 - 🏏 [**T20-World-Cup-2026-Predictor**](https://github.com/iNSRawat/T20-World-Cup-2026-Predictor) - End-to-end Machine Learning pipeline predicting the ICC T20 World Cup 2026 Final (India vs New Zealand). Built with XGBoost, LightGBM, and a premium dark-mode Streamlit dashboard.
 - 📊 [**data-cleaning-visualization**](https://github.com/iNSRawat/data-cleaning-visualization) - Professional data wrangling & business intelligence project. Cleans and visualizes 150,000+ Google Analytics user session events with 99%+ data accuracy.
