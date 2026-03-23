@@ -14,13 +14,12 @@
 
 ## 🔥 About Me
 
-- 🧑‍💻 I'm [N S Rawat](https://nsrawat.in) currently pursuing **Data Science**
-- 🛠️ Passionate about building **Data Science Module**
-- 🎯 Focused on cleaning **Data, and Visualization**
-- 💡 Love designing modern **Data Dashboard**
-- 🌱 Currently learning **AI/ML & Data Science**
-- 🧑‍💻 My DataCamp Portfolio [**LiNK**](https://www.datacamp.com/portfolio/ns-rawat)
-
+- 🎯 **Data Scientist** with **5+ years of marketing domain expertise** — I don't just build models, I understand the business behind them
+- 🤖 Built & deployed end-to-end ML pipelines: **89% accuracy churn model**, **6x ROI optimization**, **40% reporting time saved**
+- 🛠️ Specializing in **Marketing Analytics, Customer Segmentation & Predictive Modeling**
+- 🚀 **3 production Streamlit apps** live and running
+- 💼 Open to **Data Scientist / Analyst roles** in Delhi NCR (Remote friendly)
+- 🌐 Portfolio: [nsrawat.in](https://nsrawat.in)
 ---
 
 ## ✨ Featured Projects (Recent)
@@ -122,17 +121,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iNSRawa&label=Visitors&color=007ec6&style=flat" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iNSRawat&label=Visitors&color=007ec6&style=flat" /> </p>
 
 <br>
 
 ---
-
-## 💰 You can help me by Donating
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nsrawat?ref=NSRawat)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/NRawat710?ref=NSRawat)
-[![UPI](https://img.shields.io/badge/UPI-21b573?style=for-the-badge&logo=upi&logoColor=white)](https://withupi.com/@nsrawat?ref=NSRawat)
 
 <p align="center">
   <strong>✨ Built with ❤️ by <a href="https://github.com/iNSRawat">N S Rawat</a></strong>
