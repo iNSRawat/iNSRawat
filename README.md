@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=200&section=header&text=N%20S%20Rawat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Marketing%20Analytics&descAlignY=60&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:818CF8&height=200&section=header&text=N%20S%20Rawat&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Marketing%20Analytics&descAlignY=60&descAlign=50" width="100%">
 </div>
 
 ---
