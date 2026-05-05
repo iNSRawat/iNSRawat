@@ -40,7 +40,7 @@
 - 🔧 [**ubuntu-commands-guide**](https://github.com/iNSRawat/ubuntu-commands-guide) - A comprehensive Ubuntu/Linux commands guide for developers and data scientists.
 - 🐙 [**git-github-cheatsheet**](https://github.com/iNSRawat/git-github-cheatsheet) - A comprehensive Git & GitHub commands reference with examples.
 - 📝 [**resume**](https://github.com/iNSRawat/resume) - A professional resume built with LaTeX, featuring experience in data science, machine learning, and full-stack development.
-- 🧠 [**AI Engineering from Scratch**](https://github.com/iNSRawat/ai-engineering-from-scratch) - A comprehensive AI engineering from scratch commands reference with examplesLearn it. Build it. Ship it for others.
+- 🧠 [**AI Engineering from Scratch**](https://github.com/iNSRawat/ai-engineering-from-scratch) - AI engineering from scratch commands reference with examples Learn it. Build it. Ship it for others.
 
 
 ---
