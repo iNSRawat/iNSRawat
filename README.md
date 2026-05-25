@@ -37,7 +37,7 @@
 - 🌐 [**nsrawat**](https://github.com/iNSRawat/nsrawat) - Minimal, pixel-perfect portfolio with analytical projects, code notebooks, and data-driven ideas.
 - 🗓️ [**data-science-career-roadmap**](https://github.com/iNSRawat/data-science-career-roadmap) - A structured roadmap for building a career in data science.
 - 🧮 [**Mathematics-Formulas-for-Data-Science-Machine-Learning**](https://github.com/iNSRawat/Mathematics-Formulas-for-Data-Science-Machine-Learning) - A comprehensive collection of mathematics formulas essential for data science and machine learning.
-- 🔧 [**ubuntu-commands-guide**](https://github.com/iNSRawat/ubuntu-commands-guide) - A comprehensive Ubuntu/Linux commands guide for developers and data scientists.
+- 🔧 [**linux-commands-guide**](https://github.com/iNSRawat/linux-commands-guide) - A comprehensive Linux commands guide for developers and data scientists.
 - 🐙 [**git-github-cheatsheet**](https://github.com/iNSRawat/git-github-cheatsheet) - A comprehensive Git & GitHub commands reference with examples.
 - 📝 [**resume**](https://github.com/iNSRawat/resume) - A professional resume built with LaTeX, featuring experience in data science, machine learning, and full-stack development.
 - 🧠 [**AI Engineering from Scratch**](https://github.com/iNSRawat/ai-engineering-from-scratch) - AI engineering from scratch commands reference with examples Learn it. Build it. Ship it for others.
