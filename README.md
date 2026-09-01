@@ -16,7 +16,6 @@
 - 🚀 **3 production Streamlit apps** live and running
 - 💼 Open to **Data Scientist / Analyst roles** in Delhi NCR (Remote friendly)
 - 🌐 Portfolio: [nsrawat.in](https://nsrawat.in)
-- 📊 [DataCamp-Portfolio](https://www.datacamp.com/portfolio/ns-rawat?utm_source=GitHub)
 ---
 
 ## ✨ Featured Projects (Recent)
